@@ -4,7 +4,7 @@
 
 I design and build infrastructure platforms that make systems safer to change, easier to operate, and more efficient to run. My work spans cloud architecture, infrastructure automation, secure access, cost optimization, and Go-based systems engineering.
 
-**[Résumé](https://github.com/jaredt87/resume/blob/master/docs/index.md) · [LinkedIn](https://www.linkedin.com/in/jaredthomson1987/) · [Email](mailto:jaredt37@gmail.com)**
+**[Résumé](https://jaredt87.github.io/resume.html) · [LinkedIn](https://www.linkedin.com/in/jaredthomson1987/) · [Email](mailto:jaredt37@gmail.com)**
 
 ---
 
