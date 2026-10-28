@@ -4,7 +4,7 @@
 
 I design and build infrastructure platforms that make systems safer to change, easier to operate, and more efficient to run. My work spans cloud architecture, infrastructure automation, secure access, cost optimization, and Go-based systems engineering.
 
-**[Résumé](https://jaredt87.github.io/resume.html) · [LinkedIn](https://www.linkedin.com/in/jaredthomson1987/) · [Email](mailto:jaredt37@gmail.com)**
+**[Website](https://jaredt87.github.io) · [Read résumé](https://jaredt87.github.io/resume.html) · [Résumé source](https://github.com/jaredt87/resume) · [LinkedIn](https://www.linkedin.com/in/jaredthomson1987/) · [Email](mailto:jaredt37@gmail.com)**
 
 ---
 
@@ -24,8 +24,8 @@ A safety-oriented control kernel designed to govern changes to system state thro
 ### [Wingman](https://github.com/jaredt87/wingman)
 An AI engineering partner concept built around team context and workflows, with a design goal of keeping AI-generated proposals separate from execution authority.
 
-### [Résumé](https://github.com/jaredt87/resume)
-My professional experience, selected impact, technical skills, and background in systems and infrastructure engineering.
+### Résumé
+Read the [formatted résumé](https://jaredt87.github.io/resume.html) online, or browse the [Markdown source](https://github.com/jaredt87/resume/blob/master/docs/index.md) in the résumé repository.
 
 ---
 
